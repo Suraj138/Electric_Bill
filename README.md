@@ -204,16 +204,16 @@ Id, Customer Name Unit, and Amount etc
 
 First Run the file next we get a GUI for calculate the bills and print.
 
-![Screen1]
+![Screen1] (https://github.com/Suraj138/Electric_Bil/blob/main/screenshot/Screen1.png)
 
-![Screen2)]
+![Screen2)] (https://github.com/Suraj138/Electric_Bil/blob/main/screenshot/Screen2.png)
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
-![Screen1)](https://user-images.githubusercontent.com/113513434/229305777-24070c99-be2f-4ca6-8534-6dd79ca03537.png)
+![Screen3)] (https://github.com/Suraj138/Electric_Bil/blob/main/screenshot/Flow_chat%20Bill%20generat.png)
 
 ## ✍️ Author <a name = "author"></a>
-- [@Skill-Lync](https://github.com/Suraj138) Suraj Kuma
+- [@Skill-Lync](https://github.com/Suraj138) Suraj Kumar
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Inspiration
