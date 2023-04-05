@@ -9,8 +9,8 @@ Using java Swing in NetBeans IDE.
 ---------------------------------
 # Project Documentation
 <p align="center">
-  <a href="" rel="noopener">
- <img width=500px height=200px src="Screen1.png" alt="Project logo"></a>
+  <a href="" rel="suraj">
+ <img width=500px height=350px src="mainpage.png" alt="Project logo"></a>
 </p>
 
 
@@ -32,7 +32,7 @@ and fast management system.
 - [Abstract](#abstract)
 - [Introduction](#introduction)
 - [Getting Started](#getting_started)
-- [Steps to Develop a EBS usng Java GUI](#steps_to_develop_a_ebs_using_java_gui)
+- [Steps to Develop a EBS using Java GUI](#steps_to_develop_a_ebs_using_java_gui)
 - [Electricty Billing System Usage](#usage)
 - [Flow Chart](#flowchart)
 - [TODO](../TODO.md)
@@ -157,9 +157,9 @@ Source Package--New--JFrame
 
 In the Projects window, right-click the DragAndDropSample project, 
 
-choose New > ![d1](https://github.com/Suraj138/Electric_Bil/blob/main/screenshot/Screen1.png)
+choose New > ![d1](https://user-images.githubusercontent.com/113513434/229305229-238bcf84-bbeb-430e-9691-604ef49268fd.png)
 
-![d2](https://github.com/Suraj138/Electric_Bil/blob/main/screenshot/Screen2.png)
+![d2](https://user-images.githubusercontent.com/113513434/229305251-3a5d95ec-f4ac-427a-a11c-b9b1e7994660.png)
 
 
 File/Folder. In the New File wizard, under Categories, select NetBeans Module 
@@ -208,7 +208,7 @@ First Run the file next we get a GUI for calculate the bills and print.
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
-![Screen3)] (https://github.com/Suraj138/Electric_Bil/blob/main/screenshot/Flow_chat%20Bill%20generat.png)
+![Screen3)](https://github.com/Suraj138/Electric_Bil/blob/main/screenshot/Flow_chat%20Bill%20generat.png)
 
 ## ✍️ Author <a name = "author"></a>
 - [@Skill-Lync](https://github.com/Suraj138) Suraj Kumar
