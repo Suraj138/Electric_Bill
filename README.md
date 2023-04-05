@@ -204,13 +204,13 @@ Id, Customer Name Unit, and Amount etc
 
 First Run the file next we get a GUI for calculate the bills and print.
 
-![Screenshot (245)](https://user-images.githubusercontent.com/113513434/229305464-cf69e787-b1d1-42db-b21f-13463aaf6370.png)
+![Screen1](https://user-images.githubusercontent.com/113513434/229305464-cf69e787-b1d1-42db-b21f-13463aaf6370.png)
 
-![Screenshot (220)](https://user-images.githubusercontent.com/113513434/229305557-187cbc4d-e661-40a4-9783-ca86c259e95d.png)
+![Screen2)](https://user-images.githubusercontent.com/113513434/229305557-187cbc4d-e661-40a4-9783-ca86c259e95d.png)
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
-![Screenshot (247)](https://user-images.githubusercontent.com/113513434/229305777-24070c99-be2f-4ca6-8534-6dd79ca03537.png)
+![Screen1)](https://user-images.githubusercontent.com/113513434/229305777-24070c99-be2f-4ca6-8534-6dd79ca03537.png)
 
 ## ✍️ Author <a name = "author"></a>
 - [@Skill-Lync](https://github.com/Suraj138) Suraj Kuma
