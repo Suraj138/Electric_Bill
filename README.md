@@ -204,9 +204,9 @@ Id, Customer Name Unit, and Amount etc
 
 First Run the file next we get a GUI for calculate the bills and print.
 
-![Screen1](https://user-images.githubusercontent.com/113513434/229305464-cf69e787-b1d1-42db-b21f-13463aaf6370.png)
+![Screen1]
 
-![Screen2)](https://user-images.githubusercontent.com/113513434/229305557-187cbc4d-e661-40a4-9783-ca86c259e95d.png)
+![Screen2)]
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
