@@ -157,11 +157,9 @@ Source Package--New--JFrame
 
 In the Projects window, right-click the DragAndDropSample project, 
 
-choose New > ![d1](https://user-images.githubusercontent.com/113513434/229305229-238bcf84-bbeb-430e-9691-604ef49268fd.png)
+choose New > ![d1](https://github.com/Suraj138/Electric_Bil/blob/main/screenshot/Screen1.png)
 
-
-
-![d2](https://user-images.githubusercontent.com/113513434/229305251-3a5d95ec-f4ac-427a-a11c-b9b1e7994660.png)
+![d2](https://github.com/Suraj138/Electric_Bil/blob/main/screenshot/Screen2.png)
 
 
 File/Folder. In the New File wizard, under Categories, select NetBeans Module 
@@ -204,9 +202,9 @@ Id, Customer Name Unit, and Amount etc
 
 First Run the file next we get a GUI for calculate the bills and print.
 
-![Screen1] (https://github.com/Suraj138/Electric_Bil/blob/main/screenshot/Screen1.png)
+![Screen1](https://github.com/Suraj138/Electric_Bil/blob/main/screenshot/Screen1.png)
 
-![Screen2)] (https://github.com/Suraj138/Electric_Bil/blob/main/screenshot/Screen2.png)
+![Screen2)](https://github.com/Suraj138/Electric_Bil/blob/main/screenshot/Screen2.png)
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
