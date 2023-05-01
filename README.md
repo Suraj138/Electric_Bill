@@ -214,7 +214,7 @@ First Run the file next we get a GUI for calculate the bills and print.
 - [@Skill-Lync](https://github.com/Suraj138) Suraj Kumar
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Inspiration
+- Inspiration :
 - Instruct me for project: - Junie Deny Solomon
 - References:- Junie Deny Solomon
 
