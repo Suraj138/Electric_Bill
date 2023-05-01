@@ -215,6 +215,8 @@ First Run the file next we get a GUI for calculate the bills and print.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Inspiration
+- Instruct me for project: - Junie Deny Solomon
+- References:- Junie Deny Solomon
 
-    Self learning and gain new skill.    (',')
+- Self learning and gain new skill.    (',')
 
