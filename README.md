@@ -1,4 +1,4 @@
-# Electric_Bil
+# Electric_Bill
 This is our Electric bill generate system
 
 
